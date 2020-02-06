@@ -1,6 +1,6 @@
 # cra-template-typescript-storybook
 
-This template extends the Create React App [TypeScript template](https://github.com/facebook/create-react-app) with Storybook.
+This template extends the Create React App [TypeScript template](https://github.com/facebook/create-react-app/tree/master/packages/cra-template-typescript) with Storybook.
 
 ### GETTING STARTED
 
