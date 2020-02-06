@@ -1,0 +1,32 @@
+import { Meta, Story, Preview, Props } from "@storybook/addon-docs/blocks";
+import { Button } from "../components/Button";
+
+<Meta title="Test" />
+
+# Text Button
+
+A simple button
+
+<Preview>
+  <Story name="Button with text">
+    <Button>hello</Button>
+  </Story>
+</Preview>
+
+# Emoji Button
+
+A button with Emoji
+
+<Preview>
+  <Story name="Button with Emoji">
+    <Button>
+      <span role='img' aria-label='so cool'>
+        😀 😎 👍 💯
+      </span>
+    </Button>
+  </Story>
+</Preview>
+
+# Props
+
+<Props of={Button} />

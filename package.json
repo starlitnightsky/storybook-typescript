@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-typescript-storybook",
+  "version": "1.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "storybook"
+  ],
+  "description": "Extends the Create React App TypeScript template with Storybook",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edwardpayton/cra-template-typescript-storybook.git",
+    "directory": "packages/cra-template-typescript-storybook"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.10"
+  },
+  "bugs": {
+    "url": "hhttps://github.com/edwardpayton/cra-template-typescript-storybook/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
